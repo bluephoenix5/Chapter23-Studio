@@ -1,0 +1,56 @@
+﻿body
+{
+    background-color: ghostwhite;
+}
+
+header
+{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+#red
+{
+    color: firebrick;
+}
+
+h2
+{
+    color: navy;
+    text-align: center;
+    font-family: 'Comic Sans MS'
+}
+
+p 
+{
+    border-style: double;
+    text-align: center;
+    margin: 25px 200px 50px 200px;
+    background-color: lightgrey;
+    color: darkgoldenrod;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+img
+{
+    outline-style: inset;
+    outline-width: 5px;
+    outline-color: navy;
+}
+
+figcaption
+{
+    color: dimgray;
+    text-align: center;
+    margin: 10px 5px 50px 5px;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
